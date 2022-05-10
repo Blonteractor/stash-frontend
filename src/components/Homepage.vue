@@ -21,7 +21,7 @@ export default {
   position: absolute;
   height: 100%;
   left: 300px;
-  width: 100%-300px;
+  width: ;
   top: 0px;
   background-color: #113536;
 }
