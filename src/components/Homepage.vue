@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Cards from "./Cards.vue";
+import Searchbar from "./Searchbar.vue";
 </script>
 
 <template>
-    <Cards />
+    <Searchbar/>
 </template>
 
 <style scoped>

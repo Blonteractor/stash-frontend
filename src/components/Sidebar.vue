@@ -5,7 +5,6 @@
 
 <style scoped>
 div {
-  position: fixed;
   background: #112123;
   color: white;
 }
